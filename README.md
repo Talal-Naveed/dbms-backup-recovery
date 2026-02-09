@@ -1,7 +1,6 @@
 # dbms-backup-recovery
 University research-based DBMS project focusing on backup and recovery techniques.
 
---
 
 **Resarch Title:**
 A Detailed Analysis of Backup and Recovery Techniques in Database Management Systems (DBMS)
@@ -16,7 +15,6 @@ This repository contains a **university research-based assignment** that explore
   
 This project focuses on how databases handle failures and ensure data consistency, availability, and reliability through different backup strategies and recovery mechanisms.
 
---
 
 ## Objectives
 - Understand the importance of backup and recovery in DBMS
@@ -30,10 +28,10 @@ This project focuses on how databases handle failures and ensure data consistenc
 - Checkpoint-based recovery
 - Compare techniques based on performance, reliability, and use cases
 
---
 
 ## Academic Context & Disclaimer
 This project was completed as the final group assessment for **SEG2102 Database Management Systems** (School of Engineering and Technology, Sunway University, Malaysia).
+
 
 ## My Role (Team Leader)
 As the **Team Leader**, my responsibilities included:
@@ -43,14 +41,12 @@ As the **Team Leader**, my responsibilities included:
 - Reviewing technical content for accuracy
 - Compiling and finalizing the IEEE-formatted report
 
---
 
 ## Team Member
 - **Muhammad Talal Naveed** - Team Leader
 - Ernest Chen
 - Ho Jian Feng
 
---
 
 ## Concepts & Technologies
 
