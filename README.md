@@ -60,3 +60,5 @@ As the **Team Leader**, my responsibilities included:
 - **Documentation**: IEEE report template
 
 
+📚 External dataset references are documented in the `references/` directory.
+
